@@ -62,5 +62,5 @@ Based on cross-validation, **XGBoost** delivered the best trade-off between prec
 ## About Me
 I'm Bahar, a data science student with a passion for applying analytics in finance, particularly in fraud detection and transactional analysis. Let’s connect!
 
- [LinkedIn](www.linkedin.com/in/baharehalmasi)
+ [LinkedIn](www.linkedin.com/in/baharehalmasi/)
 
